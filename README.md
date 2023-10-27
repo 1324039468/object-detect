@@ -3,6 +3,7 @@
 
 文件夹Attention Modules for improve YOLO中存放了不同的注意力机制
 文件夹Conv Modules for improve YOLO中存放了不同的卷积模块
+文件夹Conv Modules for improve YOLO中存放了不同的卷积模块
 
 YOLOV7模型代码详解：https://www.bilibili.com/video/BV1jw411X79C/?spm_id_from=333.999.0.0
 
