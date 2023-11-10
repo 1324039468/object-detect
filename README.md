@@ -7,7 +7,7 @@
 
 YOLOV8模型改进之AFPN：https://www.bilibili.com/video/BV1Ea4y1Q7qc/?spm_id_from=333.999.0.0
 
-YOLOV8模型改进之SPDConv：https://www.bilibili.com/video/BV1Ea4y1Q7qc/?spm_id_from=333.999.0.0
+YOLOV8模型改进之SPDConv：https://www.bilibili.com/video/BV1iu4y1777u/?spm_id_from=333.999.0.0&vd_source=14cd0464a0d319ab6d156ba89adc03dd
 
 YOLOV8模型代码详解：https://www.bilibili.com/video/BV1uM411X7n4/?spm_id_from=333.999.0.0
 
