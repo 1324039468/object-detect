@@ -11,7 +11,7 @@ YOLOV8模型代码详解：https://www.bilibili.com/video/BV1uM411X7n4/?spm_id_f
 
 YOLOV7模型代码详解：https://www.bilibili.com/video/BV1jw411X79C/?spm_id_from=333.999.0.0
 
-YOLOV5模型代码详解：https://www.bilibili.com/video/BV1uM411X7n4/?spm_id_from=333.999.0.0](https://www.bilibili.com/video/BV1T94y1j7dr/?spm_id_from=333.999.0.0)
+YOLOV5模型代码详解：https://www.bilibili.com/video/BV1T94y1j7dr/?spm_id_from=333.999.0.0
 
 YOLO系列视频讲解以及模型改进请参考 https://space.bilibili.com/409749187
 
