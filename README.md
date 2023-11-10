@@ -5,9 +5,13 @@
 文件夹Conv Modules for improve YOLO中存放了不同的卷积模块
 文件夹Different IoU for improve YOLO中存放了不同的IoU损失函数
 
-YOLOV7模型代码详解：https://www.bilibili.com/video/BV1jw411X79C/?spm_id_from=333.999.0.0
+YOLOV8模型改进之AFPN：https://www.bilibili.com/video/BV1Ea4y1Q7qc/?spm_id_from=333.999.0.0
 
 YOLOV8模型代码详解：https://www.bilibili.com/video/BV1uM411X7n4/?spm_id_from=333.999.0.0
+
+YOLOV7模型代码详解：https://www.bilibili.com/video/BV1jw411X79C/?spm_id_from=333.999.0.0
+
+YOLOV5模型代码详解：https://www.bilibili.com/video/BV1uM411X7n4/?spm_id_from=333.999.0.0](https://www.bilibili.com/video/BV1T94y1j7dr/?spm_id_from=333.999.0.0)
 
 YOLO系列视频讲解以及模型改进请参考 https://space.bilibili.com/409749187
 
@@ -16,5 +20,6 @@ YOLOV8模型改进之Focused Linear Attention：https://www.bilibili.com/video/B
 YOLOV7模型改进之Focused Linear Attention：https://www.bilibili.com/video/BV1nG411X7bS/?spm_id_from=333.999.0.0&vd_source=14cd0464a0d319ab6d156ba89adc03dd
 
 YOLOV7模型改进之AIFI：https://www.bilibili.com/video/BV1BH4y1z7it/?spm_id_from=333.999.0.0&vd_source=14cd0464a0d319ab6d156ba89adc03dd
+
 
 
